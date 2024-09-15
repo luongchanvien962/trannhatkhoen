@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Trần Nhật Khoen <https://nhatvip.mov/tran-nhat-khoen-nhatvip/>`_ là người sáng lập và lãnh đạo Nhatvip, nền tảng giải trí trực tuyến hàng đầu Việt Nam. Với tầm nhìn chiến lược và khả năng quản lý xuất sắc, Trần Nhật Khoen đã đưa Nhatvip trở thành thương hiệu uy tín trong lĩnh vực cá cược, đồng thời mở rộng ảnh hưởng quốc tế. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 75 Đường S3, Tây Thạnh, Tân Phú, Hồ Chí Minh, Vietnam. 
 
-   This project is under active development.
+Phone: 0866001577. 
 
-Contents
---------
+Email: contact@trannhatkhoen.nhatvip. 
 
-.. toctree::
+Website: https://nhatvip.mov/tran-nhat-khoen-nhatvip/ 
 
-   usage
-   api
+#ceotrannhatkhoen #trannhatkhoen #trannhatkhoen_nhatvip
